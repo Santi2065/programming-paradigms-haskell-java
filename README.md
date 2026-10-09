@@ -132,6 +132,6 @@ The statements of the assignments and the queue test suite were provided by the 
   title        = {From Algebraic Data Types to Polymorphic Objects: Four Programming Paradigms Assignments},
   year         = {2023},
   howpublished = {Universidad de San Andr{\'e}s, Programming Paradigms},
-  url          = {https://github.com/Santi2065/Tps-de-Paradigmas}
+  url          = {https://github.com/Santi2065/programming-paradigms-haskell-java}
 }
 ```
